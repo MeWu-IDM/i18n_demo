@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    padding: 20px;
+}
+
+input[type="text"], textarea {
+    width: 300px;
+    margin-bottom: 10px;
+    padding: 10px;
+}
+
+button {
+    padding: 10px 20px;
+    cursor: pointer;
+    color: wheat;
+    background-color: palevioletred;
+}

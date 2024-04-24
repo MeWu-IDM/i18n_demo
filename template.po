@@ -1,0 +1,17 @@
+msgid "You win! {name}"
+msgstr "You win! {name}"
+
+msgid "You lose! {name}"
+msgstr "You lose! {name}"
+
+msgid "Enter your name and a message"
+msgstr "Enter your name and a message"
+
+msgid "Name"
+msgstr "Name"
+
+msgid "Your message..."
+msgstr "Your message..."
+
+msgid "Submit"
+msgstr "Submit"
