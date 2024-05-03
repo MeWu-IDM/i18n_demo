@@ -1,12 +1,14 @@
-#
+# French translations for PROJECT.
+
 msgid ""
 msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "You win! {name}"
-msgstr "Vous avez gagné !"
+msgstr "Vous avez gagné!!! {name}"
 
 msgid "You lose! {name}"
-msgstr "Vous perdez !"
+msgstr "Vous perdez! {name}"
 
 msgid "Enter your name and a message"
 msgstr "Entrez votre nom et un message"

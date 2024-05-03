@@ -10,6 +10,9 @@
     {% if message %}
         <p>{{ message }}</p>
     {% endif %}
+     {% if text1 %}
+        <p>{{ text1 }}</p>
+    {% endif %}
     <form action="/{{ lang }}/" method="post">
         <input type="text" name="name" placeholder="{{ _('Name') }}" required>
         <br>
